@@ -1,0 +1,4 @@
+MethodError: no method matching getindex(::MakieCore.Attributes)
+Closest candidates are:
+  getindex(::MakieCore.Attributes, !Matched::Symbol) at /home/runner/.julia/packages/MakieCore/S8PkO/src/attributes.jl:95
+  getindex(::Union{MakieCore.Attributes, MakieCore.AbstractPlot}, !Matched::Symbol, !Matched::Symbol, !Matched::Symbol...) at /home/runner/.julia/packages/MakieCore/S8PkO/src/attributes.jl:198
